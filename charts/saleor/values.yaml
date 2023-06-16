@@ -7,8 +7,7 @@ image:
   imageName: ""
   repository: ghcr.io/saleor/saleor
   pullPolicy: IfNotPresent
-  tag: "3.0.0"
-  #tag: "3.4.21"
+  tag: "3.14"
 
 # fullnameOverride: saleor-api
 
